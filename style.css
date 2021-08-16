@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    
+}
+
+.line{
+    height: 6px;
+    width: 50px;
+    background-color: black;
+    margin: 8px auto;
+    
+}
+
+h1{
+    font-size: 50px;
+}
+
+#Apps{
+    width: 100%;
+    height: 800px;
+    background-color: red;
+}
+
+#Games{
+    height: 800px;
+    width: 100%;
+    background-color: red;
+}
+
+img{
+    transition:transform 0.2s;
+    
+}
+
+img:hover{
+    transform: scale(0.8);
+}
+
+#Chatbot{
+    background-color: red;
+    width:100%;
+    height: 800px;  
+}
+
+#Mycarousel{
+    background-color: firebrick;
+}
+
+#Mycarousel img{
+    height: 300px;
+    margin-top: 40px;
+}
+
+.carousel-inner p{
+    margin-top: 18px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.container{
+    background-color: blue;
+}
